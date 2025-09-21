@@ -20,7 +20,7 @@ This project is designed to feel intuitive for everyday use while also demonstra
 ## 🎨 UI Preview
 
 ### 🔆 Light Mode
-![Light Mode Screenshot](./public/screenshot-light.png)
+![Light Mode Screenshot](./src/app/outputs/light.png)
 
 ### 🌙 Dark Mode
-![Dark Mode Screenshot](./public/screenshot-dark.png)
+![Dark Mode Screenshot](./src/app/outputs/dark.png)
